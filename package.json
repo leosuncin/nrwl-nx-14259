@@ -38,6 +38,7 @@
     "@storybook/addon-essentials": "^6.5.15",
     "@storybook/angular": "^6.5.15",
     "@storybook/builder-webpack5": "^6.5.15",
+    "@storybook/core-common": "^6.5.15",
     "@storybook/core-server": "^6.5.15",
     "@storybook/manager-webpack5": "^6.5.15",
     "@storybook/test-runner": "^0.7.2",
